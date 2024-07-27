@@ -1,5 +1,5 @@
 # Gen-HNN
-We develped a model that generates a hyperconnectional brain template from a set of multiview networks 
+We develped a model that generates a hyperconnectional brain template from a set of multiview brain networks 
 
 Please contact mayssa.soussia@gmail.com for inquiries. Thanks.
 
@@ -25,5 +25,9 @@ This work  has been accepted in PRIME MICCAI workshop 2024, Marrakech, Morroco.
 Hypergraph Neural Networks (HGNN): Feng, Y., You, H., Zhang, Z., Ji, R., Gao, Y.: Hypergraph Neural Networks. arXiv e-prints (2018) arXiv:1809.09401 [https://github.com/iMoonLab/HGNN].
 
 Deep Graph Normalizer (DGN): Gurbuz, M.B., Rekik, I.: Deep graph normalizer: a geometric deep learning ap-proach for estimating connectional brain templates. In: Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference, Lima, Peru, October 4–8, 2020, Proceedings, Part VII 23, Springer (2020) 155–165 [https://github.com/basiralab/DGN/tree/master]
+
+
+
+
 
 
