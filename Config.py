@@ -2,7 +2,7 @@
 import numpy as np
 #Load dataset
 
-data_simulated = np.load("/Users/mayssasoussia/Downloads/DGN-master/simulated dataset/example.npy")
+data_simulated = np.load("data_simulated.npy")
 
 #Number of training epochs
 N_max_epochs = 100
