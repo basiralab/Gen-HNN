@@ -1,9 +1,13 @@
 # --------------------------------------------------------
 # Utility functions for Hypergraph
 #
-# Author: Yifan Feng
+# Original Author: Yifan Feng
 # Date: November 2018
+#
+# Modifications and additional functions by: Mayssa Soussia
+# Date of modifications: April 2024
 # --------------------------------------------------------
+
 import numpy as np
 
 
