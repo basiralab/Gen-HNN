@@ -1,5 +1,5 @@
 # Gen-HNN
-We develped a model that generates a hyperconnectional brain template from a set of multiview brain networks 
+We developed a model that generates a hyperconnectional brain template from a set of multiview brain networks 
 
 Please contact mayssa.soussia@gmail.com for inquiries. Thanks.
 
